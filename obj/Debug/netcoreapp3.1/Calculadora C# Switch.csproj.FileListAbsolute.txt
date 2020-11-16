@@ -1,0 +1,13 @@
+C:\Users\monique\Desktop\Calculadora C# Switch\bin\Debug\netcoreapp3.1\Calculadora C# Switch.exe
+C:\Users\monique\Desktop\Calculadora C# Switch\bin\Debug\netcoreapp3.1\Calculadora C# Switch.deps.json
+C:\Users\monique\Desktop\Calculadora C# Switch\bin\Debug\netcoreapp3.1\Calculadora C# Switch.runtimeconfig.json
+C:\Users\monique\Desktop\Calculadora C# Switch\bin\Debug\netcoreapp3.1\Calculadora C# Switch.runtimeconfig.dev.json
+C:\Users\monique\Desktop\Calculadora C# Switch\bin\Debug\netcoreapp3.1\Calculadora C# Switch.dll
+C:\Users\monique\Desktop\Calculadora C# Switch\bin\Debug\netcoreapp3.1\Calculadora C# Switch.pdb
+C:\Users\monique\Desktop\Calculadora C# Switch\obj\Debug\netcoreapp3.1\Calculadora C# Switch.csprojAssemblyReference.cache
+C:\Users\monique\Desktop\Calculadora C# Switch\obj\Debug\netcoreapp3.1\Calculadora C# Switch.AssemblyInfoInputs.cache
+C:\Users\monique\Desktop\Calculadora C# Switch\obj\Debug\netcoreapp3.1\Calculadora C# Switch.AssemblyInfo.cs
+C:\Users\monique\Desktop\Calculadora C# Switch\obj\Debug\netcoreapp3.1\Calculadora C# Switch.csproj.CoreCompileInputs.cache
+C:\Users\monique\Desktop\Calculadora C# Switch\obj\Debug\netcoreapp3.1\Calculadora C# Switch.dll
+C:\Users\monique\Desktop\Calculadora C# Switch\obj\Debug\netcoreapp3.1\Calculadora C# Switch.pdb
+C:\Users\monique\Desktop\Calculadora C# Switch\obj\Debug\netcoreapp3.1\Calculadora C# Switch.genruntimeconfig.cache
